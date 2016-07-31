@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Jazz Cannons]]></title>
+        <description><![CDATA[The Jazz Cannons]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 31 Jul 2016 23:32:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jazz Cannons Promo with Female Vocalist - Pop & Soul Classics]]></title>
+            <description><![CDATA[<article><h1>Jazz Cannons Promo with Female Vocalist - Pop & Soul Classics</h1><p>http://www.jazzcannons.co.uk/pop_and_soul.php Click the link to discover more, check availability and recieve an immediate quote. Due to popular demand we've added a female vocalist to our line up options and created a full set list of some of the best classic pop and soul songs of all time.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1e547b37261269ad05634b5af3418c17/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fb9104jzxYpc%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/b9104jzxYpc</link>
+            <guid isPermaLink="false">86b5b410-31dc-4986-b7ce-8b34c463e255</guid>
+            <pubDate>Sun, 31 Jul 2016 23:32:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
