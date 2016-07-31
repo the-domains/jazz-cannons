@@ -1,4 +1,3 @@
-layout_spectrum: 0.9820151047315449
 typography_spectrum: 0.8753495300188661
 color:
   brandStrength: 0.5727181516122073
@@ -11,5 +10,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.9820151047315449
 name: Jazz Cannons
 title: The Jazz Cannons
+description: Swing and Retro Cool...
