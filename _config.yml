@@ -1,16 +1,28 @@
-typography_spectrum: 0.8753495300188661
+title: The Jazz Cannons
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.506383
   brandStrength: 0.5727181516122073
-  lightness: 0.168398458044976
-  saturation: 0.33737467764876783
-  rhythmicContrast: 0.8603614857420325
+  lightness: 0.6234043
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+  rhythmicContrast: 0.3808511
+typography_spectrum: 0.8753495300188661
+description: Step into the Swing
 layout_spectrum: 0.9820151047315449
 name: Jazz Cannons
-title: The Jazz Cannons
-description: Step into the Swing
