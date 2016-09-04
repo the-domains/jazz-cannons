@@ -12,16 +12,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.506383
+  saturation: 0
   brandStrength: 0.5727181516122073
-  lightness: 0.6234043
+  lightness: 1
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  rhythmicContrast: 0.3808511
+  rhythmicContrast: 1
 typography_spectrum: 0.8753495300188661
 description: Step into the Swing
 layout_spectrum: 0.9820151047315449
